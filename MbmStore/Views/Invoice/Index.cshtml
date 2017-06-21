@@ -1,0 +1,61 @@
+﻿@using MbmStore.Models
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body>
+    <div class="container invoice">
+        <h2>Invoices</h2>
+        <div class="row">
+            <div class="select col-md-12">
+                @using (Html.BeginForm())
+                {
+                    @Html.DropDownList("CustomerId", "Select customer")
+                    <button class="btn btn-success" type="submit">Show invoices</button>
+                }
+            </div>
+        </div>
+        @foreach (Invoice inv in ViewBag.Invoices)
+        {
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <span class="panel-title">Invoice ID: @inv.InvoiceID</span>
+                </div>
+                    <div class="panel-body">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Customer</th>
+                                    <th>Product</th>
+                                    <th>Price</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>@inv.Customer.Firstname @inv.Customer.Lastname</td>
+                                    <td>
+                                        @foreach (OrderItem oi in inv.OrderItems)
+                                        {
+                                            @oi.Product.Title<br />
+                                        }
+                                    </td>
+                                    <td>
+                                        @foreach (OrderItem oi in inv.OrderItems)
+                                    {
+                                        <span>kr. </span>@oi.Product.Price<br />
+                                    }
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Total Price:</strong></td>
+                                    <td></td>
+                                    <td><strong><span>kr.</span>@inv.GetTotalPrice()</strong></td>                             
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            }
+    </div>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>

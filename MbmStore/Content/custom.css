@@ -1,0 +1,67 @@
+﻿body {
+}
+p {
+    margin-top:10px;
+}
+ol {
+    padding-left: 15px;
+}
+.row {
+    margin:auto;
+}
+h2.panel-title {
+    font-size:24px;
+    font-weight:bold;
+    padding:10px 0;
+}
+.panel img {
+    width:100%;
+    height:auto;
+}
+.panel-body td {
+    width:33%;
+}
+.thumbnail img {
+    width:100%;
+}
+.btn {
+    margin-top:30px;
+}
+.invoice .btn {
+    margin: -2px 0 0 0;
+}
+.invoice select {
+    padding: 7px;
+    border-radius: 4px;
+}
+.invoice .select.col-md-12 {
+    padding: 0;
+    margin: 20px 0;
+}
+.btn h3 {
+    margin: 5px;
+}
+
+/*CHECKOUT*/
+.navbar .container {
+    position: relative;
+}
+.checkout-widget {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.checkout-widget .btn {
+    margin-top: 8px;
+    margin-left:10px;
+}
+input.btn.btn-sm.btn-warning {
+    margin-top: 0;
+}
+
+thead {
+    border-bottom: 2px solid #ddd;
+}
+tfoot {
+    border-top: 1px solid #ddd;
+}

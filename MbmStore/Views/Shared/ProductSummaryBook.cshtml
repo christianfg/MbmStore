@@ -1,0 +1,31 @@
+﻿@model MbmStore.Models.Book
+
+<div class="col-md-6">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h2 class="panel-title">@Model.Title</h2>
+        </div>
+        <div class="panel-body">
+            <div class="col-md-6">
+                <img src="/Content/Images/@Model.ImageUrl" height="200" alt="@Model.Title" />
+            </div>
+            <div class="col-md-6">
+                <div class="btn btn-default">
+                    <h3>kr. @String.Format("{0:0.00}", Model.Price)</h3>
+                </div>
+                @using (Html.BeginForm("AddToCart", "Cart"))
+                {
+                    @Html.Hidden("ProductId", Model.ProductId)
+                    @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                    <input type="submit" class="btn btn-success" value="Add to cart" />
+                }
+
+                <p>
+                    Author: @Model.Author<br>
+                    Publisher: @Model.Publisher (@Model.Published)<br />
+                    ISBN: @Model.ISBN<br />
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

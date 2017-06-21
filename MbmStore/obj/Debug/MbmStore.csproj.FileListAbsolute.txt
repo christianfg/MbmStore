@@ -1,0 +1,168 @@
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\csc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\vbc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\mbmshop.dll.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\mbmshop.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\mbmshop.pdb
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Helpers.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Mvc.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Helpers.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Mvc.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\obj\Debug\mbmshop.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\obj\Debug\mbmshop.pdb
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\csc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\vbc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.pdb
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.pdb
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll.config
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.pdb
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.pdb
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\MbmStore.dll.config
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\MbmStore.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\MbmStore.pdb
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\obj\Debug\MbmStore.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus mandatory .1\MbmStore\obj\Debug\MbmStore.pdb
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\MbmStore.dll.config
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\MbmStore.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\MbmStore.pdb
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Webpages.Deployment.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Webpages.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Webpages.Razor.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Webpages.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Webpages.Deployment.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Webpages.Razor.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\obj\Debug\MbmStore.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\RasmusChristiansen mandatory .1\MbmStore\obj\Debug\MbmStore.pdb
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus, Daniel og Christian-mandatory\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus, Daniel og Christian-mandatory\MbmStore\obj\Debug\MbmStore.dll
+\\Mac\Home\Documents\Rasmus\Skole\Erhvervs akademi Århus\1. Semester\Backend\Mandatory 1\Rasmus, Daniel og Christian-mandatory\MbmStore\obj\Debug\MbmStore.pdb

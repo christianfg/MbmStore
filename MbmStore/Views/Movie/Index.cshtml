@@ -1,0 +1,41 @@
+﻿@using MbmStore.Models
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body>
+    <div class="row">
+        <div class="page-header">
+            <h1>Movies</h1>
+        </div>
+        @foreach (Product product in ViewBag.Products)
+        {
+            if (product is Movie)
+            {
+                Movie movie = (Movie)product;
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h2 class="panel-title">@movie.Title</h2>
+                        </div>
+                        <div class="panel-body">
+                            <div class="col-md-6">
+                                <img src="/Content/Images/@movie.ImageUrl" alt="@movie.Title" />
+                            </div>
+                            <div class="col-md-6">
+                                <div class="caption">
+                                    <div class="btn btn-default">
+                                        <h4>kr. @String.Format("{0:0.00}", movie.Price)</h4>
+                                    </div>
+                                    <div class="btn btn-success">
+                                        <h4>Buy</h4>
+                                    </div>
+                                    <p><strong>Director:</strong> @movie.Director</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</body>

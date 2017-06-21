@@ -1,0 +1,31 @@
+﻿@using MbmStore.Models
+@{
+    Layout = null;
+}
+@helper RenderCustomer(Customer c)
+{
+<h2>@c.Firstname @c.Lastname</h2>
+<p>
+    Adresse: @c.Address
+    <br />
+    Post nr. by: @c.Zip @c.City
+    <br />
+    Tlf. nr.: @c.Phonenumber
+</p>
+        }
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Customer</title>
+</head>
+<body>
+    <div> 
+        @foreach (Customer c in ViewBag.Customers)
+        {
+            @RenderCustomer(c);
+        }
+    </div>
+</body>
+</html>
